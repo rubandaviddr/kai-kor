@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kai-kor/static/css/main.6964440f.css",
+    "main.css": "/kai-kor/static/css/main.d1386f7d.css",
     "main.js": "/kai-kor/static/js/main.f69c637d.js",
     "static/js/453.bec2726c.chunk.js": "/kai-kor/static/js/453.bec2726c.chunk.js",
     "static/media/banner21.PNG": "/kai-kor/static/media/banner21.4619d6b73682fb2248b4.PNG",
@@ -40,12 +40,12 @@
     "static/media/b6.avif": "/kai-kor/static/media/b6.048e8cca8dea8766b504.avif",
     "static/media/b3.avif": "/kai-kor/static/media/b3.541180df09c0bc5273a1.avif",
     "index.html": "/kai-kor/index.html",
-    "main.6964440f.css.map": "/kai-kor/static/css/main.6964440f.css.map",
+    "main.d1386f7d.css.map": "/kai-kor/static/css/main.d1386f7d.css.map",
     "main.f69c637d.js.map": "/kai-kor/static/js/main.f69c637d.js.map",
     "453.bec2726c.chunk.js.map": "/kai-kor/static/js/453.bec2726c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6964440f.css",
+    "static/css/main.d1386f7d.css",
     "static/js/main.f69c637d.js"
   ]
 }
