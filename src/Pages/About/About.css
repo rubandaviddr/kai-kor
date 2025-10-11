@@ -1,0 +1,11 @@
+.bk4 {
+    background-image: url('../Img/banner21.PNG');
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    height: 440px;
+}
+
+.text-primary-1 {
+  color: #FD6035;
+}
