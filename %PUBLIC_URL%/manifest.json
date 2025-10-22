@@ -1,7 +1,7 @@
 {
   "name": "Kai-Kor",
   "short_name": "Kai-Kor",
-  "start_url": "/",
+  "start_url": "/kai-kor/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000"
