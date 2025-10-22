@@ -1,26 +1,39 @@
 {
   "short_name": "Kai Kor",
   "name": "Kai Kor Community Platform",
-  "homepage": "https://rubandaviddr.github.io/kai-kor",
+  "start_url": "/kai-kor/home",
+  "display": "standalone",
+  "scope": "/kai-kor/home",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff",
+  "description": "A community platform for Kai Kor, built with React and hosted on GitHub Pages.",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "/kai-kor/home/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "/kai-kor/home/logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any"
     },
     {
-      "src": "logo512.png",
+      "src": "/kai-kor/home/logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "maskable"
     }
   ],
-  "start_url": "/kai-kor",
-  "display": "standalone",
-  "theme_color": "#your-brand-color",
-  "background_color": "#ffffff"
+  "screenshots": [
+    {
+      "src": "/kai-kor/home/screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "description": "Kai Kor Community Platform homepage"
+    }
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false
 }
