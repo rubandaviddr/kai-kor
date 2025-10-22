@@ -1,8 +1,39 @@
 {
-  "name": "Kai-Kor",
-  "short_name": "Kai-Kor",
-  "start_url": "/",
+  "short_name": "Kai Kor",
+  "name": "Kai Kor Community Platform",
+  "start_url": "/kai-kor/home",
   "display": "standalone",
+  "scope": "/kai-kor/home",
+  "theme_color": "#007bff",
   "background_color": "#ffffff",
-  "theme_color": "#000000"
+  "description": "A community platform for Kai Kor, built with React and hosted on GitHub Pages.",
+  "icons": [
+    {
+      "src": "/kai-kor/home/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/kai-kor/home/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/kai-kor/home/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/kai-kor/home/screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "description": "Kai Kor Community Platform homepage"
+    }
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false
 }
